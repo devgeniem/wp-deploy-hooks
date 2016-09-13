@@ -1,0 +1,16 @@
+{
+  "name": "devgeniem/wp-deploy-hook",
+  "description": "A WordPress plugin that registers a hook that can be run via WP CLI during deploy.",
+  "type": "wordpress-plugin",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Miika Arponen",
+      "email": "miika@geniem.com",
+      "homepage": "https://github.com/nomafin"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  }
+}
